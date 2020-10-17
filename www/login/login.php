@@ -20,12 +20,12 @@ if(!empty($email) && !empty($password))
     }
     else
     {
-        echo json_encode("El usuario no existe");
+        echo json_encode("The user already exists");
     } 
 }
 else
 {
-    echo json_encode("Llena todos los datos");
+    echo json_encode("Fill all the data");
 }
 
 ?>

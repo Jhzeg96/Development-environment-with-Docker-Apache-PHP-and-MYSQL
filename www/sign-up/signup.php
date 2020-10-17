@@ -14,13 +14,12 @@ if(!empty($email) && !empty($password))
     }
     else
     {
-        echo json_encode("Ocurrio un error, vuelve a intentar");
+        echo json_encode("An error ocurred, try again");
     }
-    //echo json_encode("Correctamente registrado, ya puedes logearte");
 }
 else
 {
-    echo json_encode("Llena todos los datos");
+    echo json_encode("Fill all the data");
 }
 
 ?>
