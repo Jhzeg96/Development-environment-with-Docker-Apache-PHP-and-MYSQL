@@ -1,6 +1,6 @@
 # Development environment with Docker, Apache, PHP and MYSQL
 
-This is a project where i build a simple authentication system using Apache as the HTTP server, PHP as the programming language, MYSQL as the database and Docker for packaging the entire dependencies.
+This is a project where i builded a simple authentication system using Apache as the HTTP server, PHP as the programming language, MYSQL as the database and Docker for packaging the entire dependencies.
 
 ## Installation
 
